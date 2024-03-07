@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maheswara Naidu
 - 👀 I’m interested in  java,my sql ,html,css
-- 🌱 I’m currently learning  java full stack course ,python also
+- 🌱 I have completed my java full stack course ,python also
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
